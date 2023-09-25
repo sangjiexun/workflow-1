@@ -63,7 +63,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.8</java-version>
-		<org.springframework-version>4.3.4.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 		<org.springboot-version>1.4.2.RELEASE</org.springboot-version>
 	</properties>
 	<dependencyManagement>
